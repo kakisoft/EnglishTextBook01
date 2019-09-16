@@ -1,10 +1,7 @@
 ---
 title: section-01-01
-date: "2019-01-01"
+date: "2001-01-01"
+featuredImage: './space-mini.jpg'
 ---
 
-1-1
-
-<!-- end -->
-
-aaaa
+Now wringing...
