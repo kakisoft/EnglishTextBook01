@@ -1,7 +1,7 @@
 ---
 title: Welcome to the Blog!
 date: "2019-01-01"
-featuredImage: './featured.jpg'
+featuredImage: './space-mini.jpg'
 ---
 
 Now wringing...
