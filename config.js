@@ -1,17 +1,17 @@
 module.exports = {
-  title: 'Dev Blog', // Required
-  author: 'Ryan Fitzgerald', // Required
-  description: 'Full-stack Web Developer',
+  title: 'English TextBook 01', // Required
+  author: 'kakisoft', // Required
+  description: 'Web Developer',
   primaryColor: '#3498db', // Required
-  showHeaderImage: true,
-  showShareButtons: true,
-  postsPerPage: 5, // Required
+  showHeaderImage: false,
+  showShareButtons: false,
+  postsPerPage: 10, // Required
   social: {
-    website: 'https://ryanfitzgerald.ca',
-    github: 'https://github.com/ryanfitzgerald',
-    twitter: 'https://twitter.com/ryanafitzgerald',
-    linkedin: 'https://ca.linkedin.com/in/ryanafitzgerald',
+    website: 'https://kakisoft-portfolio-v2.netlify.com/',
+    github: 'https://github.com/kakisoft',
+    twitter: 'https://twitter.com/kakisoft_tab',
+    linkedin: 'https://ca.linkedin.com/in/kakisoft',
   },
   pathPrefix: '/devblog',
-  siteUrl: 'https://ryanfitzgerald.github.io/devblog/',
+  siteUrl: 'https://englishtextbook01.netlify.com/',
 };
