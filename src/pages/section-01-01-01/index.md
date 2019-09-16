@@ -4,11 +4,11 @@ date: "2001-01-01"
 featuredImage: './featured.jpg'
 ---
 
-1-1
+1-1-1
 
 <!-- end -->
 
-彼は学者というよりもむしろ小説家であると思う。  
+彼は学者というよりも、むしろ小説家であると思う。  
 I think he is not so much a scholar as a novelist.  
 
 私はあなたの立場を気の毒に思わずにいられなかった。  
@@ -41,4 +41,41 @@ I gave the boy what little money I had.
 クラシック音楽のこととなると、ジェーンほど詳しい人間はほとんどいない  
 When it comes to classical music, very few people know more than Jane.  
 
+
+_______
+
+```
+not so much A as B
+Aというよりも、むしろB
+
+cannot help ～ing
+せずにはいられない
+
+cannot ～too + 形容詞
+どんなに～してもしすぎることはない
+
+There is no ～ but ...
+...しない～はない
+
+Once
+いったん～すれば
+
+It is natural that + S + should + 動詞の原形
+Sが～するのは当然だ
+
+cannot afford to ～
+～する余裕がない
+
+would(often)
+よく～したものだ
+
+All we can do is (to)
+私たちにできるのは、～することだけだ
+
+what little + 名詞
+少ないながらも～するすべての
+
+When it comes to ～ing
+～ということになると
+```
 
