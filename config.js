@@ -1,7 +1,7 @@
 module.exports = {
   title: 'English TextBook 01', // Required
   author: 'English TextBook 01', // Required
-  // description: 'Web Developer',
+  description: '-',
   primaryColor: '#3498db', // Required
   showHeaderImage: false,
   showShareButtons: false,
