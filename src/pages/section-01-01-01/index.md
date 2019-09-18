@@ -96,7 +96,7 @@ what little + 名詞
 When it comes to classical music, very few people know more than Jane.  
 
 ```
-When it comes to ～ing
+When it comes to ～ing(名詞)
 ～ということになると
 ```
 
