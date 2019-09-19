@@ -67,15 +67,25 @@ Sが～すればよいのに
 Were I in your position. I would oppose that plan.  
 
 ```
+Wire I ～
+もし私なら
+
+---(ノイズ)---
 If S' 過去形～, S + would + 原形...
 もしS'が～ならば、Sは...するだろう
 ```
 
 水がなければ、生物は生きていけないでしょう。  
-Were in not for water, nothing could live.  
+Were it not for water, nothing could live.  
 
 ```
+Were it not for 
+もし～がなければ
+
+---(ノイズ)---
 If it were not for
+But for ～
+Without ～
 もし～がなければ
 ```
 
