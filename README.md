@@ -19,5 +19,5 @@ npm install
 <https://englishtextbook01.netlify.com/>  
 　  
 　  
-日記の方は WordPress使ってて、イディオム集は Gatuby使ってる。
+日記の方は WordPress使ってて、イディオム集は Gatuby使ってる。  
 何度も繰り返し読み返すという性質のものは、爆速サイトにしといた方がよかったな。と、ちょっと後悔してる。（WordPressの方）
