@@ -11,6 +11,10 @@ With his father's help, he would have succeeded in this task sooner.
 私の父の援助があれば、彼はこの仕事にもっと早く成功しただろう。  
 
 ```
+With ～
+～があれば
+
+---(ノイズ)---
 If S' had 過去分詞 ～, S would have 過去分詞 ...
 もし S'が～していたら、Sは...しただろう
 ```

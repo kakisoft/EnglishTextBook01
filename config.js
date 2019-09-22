@@ -1,6 +1,6 @@
 module.exports = {
-  title: 'English TextBook 01', // Required
-  author: 'English TextBook 01', // Required
+  title: 'idioms', // Required
+  author: 'idioms', // Required
   description: '-',
   primaryColor: '#3498db', // Required
   showHeaderImage: false,
