@@ -75,7 +75,7 @@ would(often)
 ```
 
 彼を待つより仕方がない。  
-All we can do is to wait for hin.  
+All we can do is to wait for him.  
 
 
 ```
