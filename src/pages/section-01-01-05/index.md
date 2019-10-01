@@ -35,7 +35,8 @@ I walked three fourths of a mile.
 私は４分の３マイル歩いた。  
 
 ```
-分数は、分子を基数、分母を序数にする。分子が２以上の場合は分母は複数形。
+分数は、分子を基数、分母を序数にする。
+分子が２以上の場合は分母は複数形。
 ```
 
 To make matters worse, it began to rain.  
