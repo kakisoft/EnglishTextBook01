@@ -40,10 +40,7 @@ It can't be helped.
 I can't help it.  
 それは仕方がない。  
 
-Where are you from?  
-どちらの出身ですか？  
-
-Where do you come from?  
+Where are you from? / Where do you come from?  
 どちらの出身ですか？  
 
 Will it rain tomorrow?  
