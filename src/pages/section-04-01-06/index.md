@@ -46,7 +46,7 @@ Young people take marriage too lightly these days.
 You can say that agein.  
 そう。全くその通りだよ。  
 
-（個人的な意見；余計なお世話じゃボケ）  
+（個人的な意見：余計なお世話じゃボケ）  
 
 Don't take me seriously. I'm only joking.  
 まじめに取らないで。ほんの冗談だよ。  
