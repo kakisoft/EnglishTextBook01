@@ -19,7 +19,7 @@ Would you mind my smoking?
 Certainly not.  
 ええ。結構ですとも。  
 
-（メモ；断るにはどうしたらいいの？）  
+（メモ：断るにはどうしたらいいの？）  
 
 May I use this telephone?  
 この電話をお借りしていいですか？  

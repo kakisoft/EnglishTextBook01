@@ -28,7 +28,7 @@ Cheer up! Everything will soon be all right.
 What do you think of that?  
 それについて、どう思いますか？  
 
-Please come and see me when it is vonvenient for you.  
+Please come and see me when it is convenient for you.  
 ご都合のよいときに、おいでください。  
 
 Take care not to catch cold.  
