@@ -19,7 +19,7 @@ It won't take long to read that book.
 Let me put it in another way.  
 別の言い方で言ってみよう。  
 
-The report revealed (the fact) that many teenagers are alcoholics.  
+The report revealed (the fact) t nhat many teenagers are alcoholics.  
 その報告書から、１０大の多くの子どもがアルコール中毒にかかっている事が分かった。  
 
 The work cost him his life.  
